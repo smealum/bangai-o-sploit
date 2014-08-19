@@ -10,7 +10,7 @@ as it stands, running do.bat will extract the executable arm9/arm7 blobs from "i
 
 this exploit should work fine on any DS, DS lite, DSi, DSi XL, 3DS, 3DS XL or 2DS out there.
 
-please note that this directory contains the US version of bangai-o sploit. use one of the two other directories if your region differs.
+please note that this directory contains the European version of bangai-o sploit. use one of the two other directories if your region differs.
 
 dependencies:
 ndstool - http://code.google.com/p/psprampatch/downloads/detail?name=NDSTOOL.rar&can=2&q=
